@@ -1,0 +1,29 @@
+{
+  "name": "dna_sequence_challenge",
+  "version": "1.0.0",
+  "description": "DNA Sequence Challenge",
+  "main": "solution.js",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.67.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lspontaneo/dna_sequence_challenge"
+  },
+  "keywords": [
+    "DNA",
+    "node.js"
+  ],
+  "author": "Leah Spontaneo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lspontaneo/dna_sequence_challenge/issues"
+  },
+  "homepage": "https://github.com/lspontaneo/dna_sequence_challenge"
+}
