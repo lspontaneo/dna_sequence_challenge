@@ -1,0 +1,31 @@
+# Mac OS X files
+.DS_Store
+
+# Sublime project files
+*.sublime-project
+*.sublime-workspace
+
+# IntelliJ
+.idea
+*.iml
+
+# NPM files
+npm-debug.log
+node_modules
+
+#actiohero stuff
+pids
+log/*.log
+
+target/
+deploy/aws_credentials.json
+deploy/configs/*
+newrelic_agent.log
+
+public/javascript/actionheroClient.*
+
+#xunit test reporter
+xunit.xml
+
+#test coverage
+coverage
